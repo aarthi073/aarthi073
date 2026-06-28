@@ -13,8 +13,7 @@ Computational modeling of RNA and protein patterns in response to various drug c
 **- Lung Cancer Classification**
 Machine Learning pipeline to classify malignant tumors and map genes from bulkRNASeq expression counts to molecular pathways.
 
-[Lung_Cancer_Classification]
-(https://github.com/aarthi073/Lung_Cancer_Classification.git)
+[Lung_Cancer_Classification](https://github.com/aarthi073/Lung_Cancer_Classification.git)
 
 
 # Research
