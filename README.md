@@ -7,10 +7,12 @@ I am an undergraduate student in Computational &amp; Applied Mathematics and Sta
 # Projects
 **- Stochastic Tuning and Chemoresistance Simulation**
 Computational modeling of RNA and protein patterns in response to various drug concentrations to analyze the stochastic tuning of transcriptional noise and subsequent resistance protein production in a tumor population of cells. Using a Monte Carlo continuous time simulation from the Gillespie algorithm, the RNA and protein production behavior of a single cell and cell survival in a population of 50-100 cells were simultaneously tracked to understand how cell health is randomly optimized as a stress response against conditions that are not accounted for in the genetic programming. 
+
 [Stochastic_Tuning_and_Chemoresistance_Simulation](https://github.com/aarthi073/Stochastic_Tuning_and_Chemoresistance_Simulation.git)
 
 **- Lung Cancer Classification**
 Machine Learning pipeline to classify malignant tumors and map genes from bulkRNASeq expression counts to molecular pathways.
+
 [Lung_Cancer_Classification](https://github.com/aarthi073/Lung_Cancer_Classification.git)
 
 
